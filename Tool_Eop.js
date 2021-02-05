@@ -22,6 +22,7 @@ function run() {
       dquestionFill(time);
       break;
     case 'dmcq image-choose-word':
+    case 'dmcq audio-choose-word':
       dWrite();
       break;
     case 'dcontent view-content':
